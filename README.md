@@ -127,7 +127,7 @@ Measures similarity between movies.
 
 # 👩‍💻 Author
 
-Sanjana T
+E Navya sree
 
 ---
 
