@@ -1,4 +1,5 @@
-# SkillEntrix_movie-recommendation_system- Streamlit Web App
+@@ -122,15 +122,3 @@ Measures similarity between movies.
+- Streamlit Web App
 - User Login System
 - Deep Learning Recommendations
 
