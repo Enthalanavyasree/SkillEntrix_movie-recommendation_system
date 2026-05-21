@@ -126,9 +126,7 @@ Measures similarity between movies.
 ---
 
 # 👩‍💻 Author
-
-E Navya sree
-
+E.Navya sree
 ---
 
 # ⭐ GitHub
